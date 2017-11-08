@@ -21,7 +21,7 @@ Haast jullie vlug naar de geheime locatie en redt de wereld!
 Deze geheime locatie kan zich op 2 verschillende plaatsen bevinden, de juiste wordt jullie verteld aan de hand van een cijfer die in het groot op de deur van de Mortier zal staan:
 
 
-
+<br><br>
 <br><br>
 ### Geheime locatie 1:
   **De haven van Brugge**
@@ -31,6 +31,7 @@ Deze geheime locatie kan zich op 2 verschillende plaatsen bevinden, de juiste wo
 
 
 <br><br>
+<br><br>
 ### Geheime locatie 2:
   **Het Sebrechtpark in Brugge (park naast de Mortier)**
   
@@ -38,7 +39,8 @@ Deze geheime locatie kan zich op 2 verschillende plaatsen bevinden, de juiste wo
 
 
 <br><br>
-**Vooraleer jullie vertrekken moeten jullie nog enkele dingen weten:**
+<br><br>
+#### Vooraleer jullie vertrekken moeten jullie nog enkele dingen weten:
 * Ga niet onvoorbereid, bespreek samen een tactiek om zo snel en zonder veel gewonden de Rode Knop de bemachtigen
 * Jullie kogels zijn beperkt, wees hier zuinig mee.
 * Als jullie richting de haven gaan, wees veilig en rijdt verstandig.
@@ -47,4 +49,4 @@ Deze geheime locatie kan zich op 2 verschillende plaatsen bevinden, de juiste wo
 * Extra opmerkingen zullen ook op jullie duer staan.
 
 
-### Redt de wereld en wordt rijkelijk beloond! Canary
+### Redt de wereld en wordt rijkelijk beloond!
