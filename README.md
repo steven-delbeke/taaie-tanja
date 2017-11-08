@@ -47,4 +47,4 @@ Deze geheime locatie kan zich op 2 verschillende plaatsen bevinden, de juiste wo
 * Extra opmerkingen zullen ook op jullie duer staan.
 
 
-### Redt de wereld en wordt rijkelijk beloond!
+### Redt de wereld en wordt rijkelijk beloond! Canary
