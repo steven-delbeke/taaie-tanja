@@ -22,23 +22,22 @@ Deze geheime locatie kan zich op 2 verschillende plaatsen bevinden, de juiste wo
 
 
 
-
+<br><br>
 ### Geheime locatie 1:
   **De haven van Brugge**
   
   Let op: De Rode Knop wordt beschermd door Amerikaanse bewakers, hij is te vinden waar de atoombom op jullie kaart staat. Schakel de Amerikaanse bewakers uit om de Knop te bemachtigen. Doe dit door eerst jullie wapens op te halen bij de aangeduide plaats op de kaart (met een pistool).
   ![Geheime locatie 1](https://i.imgur.com/B88X1Cq.png)
-  
-  
-  
-  
+
+
+<br><br>
 ### Geheime locatie 2:
   **Het Sebrechtpark in Brugge (park naast de Mortier)**
   
   Let op: De Rode Knop wordt beschermd door Amerikaanse bewakers, hij is te vinden in de speeltoren van het speelpleintje.  Schakel de bewakers uit om de Knop te bemachtigen. Doe dit door eerst jullie wapens op te halen, deze zijn te vinden naast de toegangspoort van het park.
 
 
-
+<br><br>
 **Vooraleer jullie vertrekken moeten jullie nog enkele dingen weten:**
 * Ga niet onvoorbereid, bespreek samen een tactiek om zo snel en zonder veel gewonden de Rode Knop de bemachtigen
 * Jullie kogels zijn beperkt, wees hier zuinig mee.
