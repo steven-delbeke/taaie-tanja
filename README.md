@@ -26,7 +26,7 @@ Deze geheime locatie kan zich op 2 verschillende plaatsen bevinden, de juiste wo
   ![Geheime locatie 1](https://i.imgur.com/B88X1Cq.png)
   
 ### Geheime locatie 2:
-	**Het Sebrechtpark in Brugge (park naast de Mortier)**
+  **Het Sebrechtpark in Brugge (park naast de Mortier)**
   Let op: De Rode Knop wordt beschermd door Amerikaanse bewakers, hij is te vinden in de speeltoren van het speelpleintje.  Schakel de bewakers uit om de Knop te bemachtigen. Doe dit door eerst jullie wapens op te halen, deze zijn te vinden naast de toegangspoort van het park.
 
 
