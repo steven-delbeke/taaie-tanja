@@ -39,7 +39,7 @@ Deze geheime locatie kan zich op 2 verschillende plaatsen bevinden, de juiste wo
 
 
 
-*Vooraleer jullie vertrekken moeten jullie nog enkele dingen weten:*
+**Vooraleer jullie vertrekken moeten jullie nog enkele dingen weten:**
 * Ga niet onvoorbereid, bespreek samen een tactiek om zo snel en zonder veel gewonden de Rode Knop de bemachtigen
 * Jullie kogels zijn beperkt, wees hier zuinig mee.
 * Als jullie richting de haven gaan, wees veilig en rijdt verstandig.
